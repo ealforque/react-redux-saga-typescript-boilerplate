@@ -1,0 +1,17 @@
+.login-layout {
+	height: 100vmin;
+}
+
+.footer {
+	text-align: center;
+}
+
+.login-logo {
+	height: 25vmin !important;
+}
+
+.login-logo-container {
+	padding-bottom: 10vmin;
+	padding-top: 10vmin;
+	text-align: center;
+}

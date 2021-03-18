@@ -1,0 +1,28 @@
+
+.layout {
+	height: auto;
+}
+
+.header {
+	background: #fff
+}
+
+.content {
+	height: auto;
+}
+
+.logo-container {
+	float: left;
+  width: 120px;
+  height: 30px;
+	text-align: left;
+}
+
+.logo {
+  height: 60px;
+	margin-left: 15px;
+}
+
+.footer {
+	text-align: center;
+}
